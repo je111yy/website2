@@ -1,142 +1,203 @@
-</style>
-</head>
-<link rel="icon" href="Icon.jpg" type="image/icon type">
-<body>
-<div class="header"id="homepage">
-  <br></br>
-</div>
-<div class="row">
-    <div class="leftcolumn1">
-        <div class="card1">
-          
-            <div class="topnav">
-                <a><h1> Navigation!</h1></a> 
-                <a href="#homepage">Homepage</a> 
-                <a href="#aboutme">About Me</a> 
-                <a href="#gallery">Gallery</a>
-                 <a href="#hobbies">Hobbies</a>
-           </div>
-        </div>
-        <div class="card1">
-            <div class="home2"> <h2> My All-Time Favorite Songs!</h2></div>
-            <br>
-            <div class="home2">
-                <img src="Igor.jpg" width="150" height="150" class="center"> 
-                <h3>Are We Still Friends?</h3>
-                <p>Tyler, The Creator</p>
-            </div>
-            <br>
-            <div class="home2">
-                <img src="Agua.jpg" width="150" height="150" class="center">
-                <h3>Águas de Março</h3>
-                <p>Elis Regina, Antônio Carlos Jobim</p>
-            </div>
-            <br>
-            <div class="home2">
-                <img src="Noche.jpg" width="150" height="150" class="center">
-                <h3>Noche No Te Vayas</h3>
-                <p>Los Tres Caballeros</p>
-            </div>
-          </div>
-      </div>
-      
-  <div class="leftcolumn">
-    <div class="card1">
-      <div class="Homepage" style="height:200px;">
-        <h2>Welcome!!</h2>
-        <p> Helloo!!! This is my website! I hope you like it here. There is a lot to do here, you can scroll down or use the navigation bar
-            on the left to get to know me better! I hope you enjoy your stay!! ^-^
-        </p>
-    </div>
-   
-    </div>
-    <div class="card1">
-        <div class="Gallery" style="height:1900px;" id="gallery">
-        <h2> These are the things that I made, feel free to check them out!</h2>
-        <img src="g1.jpg" width="335" height="350" class="gal"> 
-        <img src="g2.jpg" width="300" height="350" class="gal">
-        <img src="g3.jpg" width="350" height="350" class="gal">
-        <img src="g4.jpg" width="335" height="350" class="gal"> 
-        <img src="g5.jpg" width="300" height="350" class="gal">
-        <img src="g6.jpg" width="350" height="350" class="gal">
-        <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-        <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-        <br><br><br><br>
-        <h3>Made this using WORD only! I love these games :^D</h3>
-        <img src="work.jpg" width="550" height="450" class="center">
-        <h3>I love my work!</h3>
-        <img src="face.jpg" width="335" height="450" class="center">
-        <h3>My face at work!</h3>
-    </div>
-    
-      </div>
-      <div class="card1">
-        <div class="Hobbies" style="height:1500px;" id="hobbies">
-            <h2> Games! Games! Games! Games!</h2>
-            <h3> Oh, my bad. I love playing games on my spare time and reading books.</h3>
-            <img src="game.jpg" width="335" height="300" class="images"> 
-            <img src="book.jpg" width="300" height="300" class="images">
-            <img src="read.jpg" width="350" height="300" class="images">
-            <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-            <img src="game1.jpg" width="520" height="400" class="center"> 
-            <h3> I am also currently grinding some otome games!</h3>
-            <h3> Homicipher is currently my favorite! ^-^</h3>
-            <img src="book1.jpg" width="520" height="400" class="center"> 
-            <h3> I also loveee reading!! This book especially :3</h3> 
-           
-        </div>
-     
-      </div>
-    
-  </div>
-  <div class="rightcolumn">
-    <div class="card1">
-      <div class="AboutMe" style="height:400px;" id="aboutme">
-        <img src="stamp.jpg" width="200" height="200" class="center">
-        <h2>About Me!</h2> 
-        <p>
-            Hi! I’m Angelika Espino! Currently working as an actress in different shows. 
-            Also, I’m a BSIS Student at CIIT! Come check out my page!
-            </p>
-    </div>
-      
-     
-    </div>
-    <div class="card1">
-        <div class="home2"> <h2>People I Idolize sm ^3^</h2></div>
-        <br>
-        <div class="home2">
-            <img src="Aya.png" width="150" height="150" class="center"> 
-            <h3>Ayea Tanako</h3>
-            <p>Japanese Artist</p>
-        </div>
-        <br>
-        <div class="home2">
-            <img src="Smokey.png" width="170" height="150" class="center">
-            <h3>Smokey Nagata (I LOVE CARS)</h3>
-            <p>Racer & Mechanic</p>
-        </div>
-        <br>
-        <div class="home2">
-            <img src="Nana.jpg" width="150" height="170" class="center">
-            <h3>Nana Komatsu</h3>
-            <p>Japananese Actress</p>
-        </div>
-      </div>
-    <div class="card1">
-       
-        <div class="home2">
-            <h3>LOOK AT MY CAT BATO!</h3>
-            <img src="Cat.jpg" width="270" height="230" class="center">
-        </div>
-    </div>
-  </div>
-</div>
-<div class="footer">
-  <h2>My Socials!</h2>
-  <h3><a href="https://www.facebook.com/OfficialAngelikaSantiago/">𝔽𝕒𝕔𝕖𝕓𝕠𝕠𝕜</a> 
- <a href="https://www.instagram.com/angelikasantiago_/?hl=en">𝕀𝕟𝕤𝕥𝕒𝕘𝕣𝕒𝕞</a>  
- <a href="https://www.tiktok.com/@angelikasantiago_?">𝕋𝕚𝕜𝕥𝕠𝕜</a></h3>
-</div>
-</body>
-</html>
+* {
+  box-sizing: border-box;
+}
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: monospace,Lucida;
+  padding: 10px;
+  background: #f8dce7;
+  background-image: url('bg.jpg')
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+.images {
+  float: left;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 40px;
+}
+
+.gal {
+  float: left;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 10px;
+
+}
+h2 {text-align: center;
+    color: rgb(230, 133, 193);
+}
+h3 {text-align: center;
+    color: rgb(230, 133, 193);
+}
+p {
+    text-align: center;
+    color: rgb(241, 149, 207);
+}
+
+.header {
+  padding: 30px;
+  text-align: center;
+  background: white;
+}
+
+.header {
+  font-size: 50px;
+  background: white;
+  background-image: url(banner3.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  border: 2px solid #f5c8da;
+  border-radius: 25px;
+}
+
+
+
+.topnav {
+  overflow: hidden;
+  background-color: white;
+  border: 2px solid #f5c8da;
+  border-radius: 25px;
+  text-align: center;
+}
+
+
+.topnav a {
+
+  display: block;
+  color: rgb(230, 133, 193);
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+
+}
+
+
+.topnav a:hover {
+  background-color: #e7aac3;
+  color: rgb(202, 101, 163);
+}
+
+
+.leftcolumn {   
+  float: left;
+  width: 60%;
+}
+
+.leftcolumn1 {   
+  float: left;
+  width: 20%;
+  padding-right: 20px;
+}
+
+
+.rightcolumn {
+  float: left;
+  width: 20%;
+  padding-left: 20px;
+}
+
+.home2 {
+  background-color: white;
+  width: 100%;
+  padding: 20px;
+  border: 2px solid white;
+  border-radius: 25px;
+}
+
+.Homepage {
+  background-color: white;
+  width: 100%;
+  padding: 20px;
+  border: 2px solid white;
+  border-radius: 25px;
+}
+.AboutMe {
+  background-color: white;
+  width: 100%;
+  padding: 20px;
+  border: 2px solid white;
+  border-radius: 25px;
+}
+.Gallery {
+  background-color: white;
+  width: 100%;
+  padding: 20px;
+  border: 2px solid white;
+  border-radius: 25px;
+}
+.Hobbies {
+  background-color: white;
+  width: 100%;
+  padding: 20px;
+  border: 2px solid white;
+  border-radius: 25px;
+}
+
+
+.card1 {
+  background-color: white;
+  padding: 20px;
+  margin-top: 20px;
+  background-image: url(p1.jpg);
+  background-position: right bottom, left top;
+  background-repeat: repeat;
+  border: 2px solid #f5c8da;
+  border-radius: 25px;
+}
+
+.card2 {
+  background-color: white;
+  padding: 20px;
+  margin-top: 20px;
+  background-image: url(p1.jpg);
+  background-position: right bottom, left top;
+  background-repeat: repeat;
+}
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+
+.row::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+
+.footer {
+  padding: 20px;
+  text-align: center;
+  background-color: #f5c8da;
+  margin-top: 20px;
+  border: 2px solid #f5c8da;
+  border-radius: 25px;
+}
+
+
+@media screen and (max-width: 800px) {
+  .leftcolumn, .rightcolumn {   
+    width: 100%;
+    padding: 0;
+  }
+}
+
+
+@media screen and (max-width: 400px) {
+  .topnav a {
+    float: none;
+    width: 100%;
+  }
+}
